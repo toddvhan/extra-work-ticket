@@ -3,3 +3,5 @@ Allow: /
 
 Disallow: /tools/
 Disallow: /listing/
+
+Sitemap: https://extra-work-ticket.vercel.app/sitemap.xml
